@@ -1,0 +1,7 @@
+.idea/
+node_modules/
+laradock/
+docker-compose-build.sh
+docker-compose-up.sh
+docker-compose-down.sh
+cc_coints.sql
